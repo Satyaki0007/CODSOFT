@@ -57,7 +57,4 @@ private static char calculateGrade(double averagePercentage) {
 }
 ```
 
-## License
-This project is licensed under the [MIT License](LICENSE).
-
 Feel free to modify and use the code for educational purposes. Contributions are welcome! Happy coding!
