@@ -1,4 +1,3 @@
-//package CodeAlpha
 import java.util.Scanner;
 class ATMInterfaceImpl
 {
